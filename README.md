@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning kotlin/android studio
 - 📫 How to reach me? 
 - 📱  Instagram: @tarik_besic
--     Technologies: c++,Kotlin, SQLite, MongoDB
-
+- 📱  Technologies: c++,Kotlin, SQLite, MongoDB
 
 
 <!---
