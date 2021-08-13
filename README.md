@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarik-besic
-- 👀 I’m interested in programming, mobile dev, web dev 
-- 🌱 I’m currently learning kotlin/android studio
+- 👀 I’m interested in programming, web dev,mobile dev  
+- 🌱 I’m currently learning NodeJs with Express framework
 - 📫 How to reach me? 
 - 📱  Instagram: @tarik_besic
 - 💻 Technologies: c++,Kotlin, SQLite, MongoDB, HTML, Css, JavaScript, NodeJS
