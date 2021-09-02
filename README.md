@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJs with Express framework
 - 📫 How to reach me? 
 - 📱  Instagram: @tarik_besic
-- 💻 Technologies: c++, SQLite, MongoDB, HTML, Css, JavaScript, NodeJS
+- 💻 Technologies: c++,Node/Express, SQLite, MongoDB, HTML, Css, JavaScript, NodeJS
 
 
 <!---
