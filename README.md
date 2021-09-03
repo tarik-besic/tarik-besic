@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarik-besic
-- 👀 I’m interested in programming, web dev,mobile dev  
+- 👀 I’m interested in programming, web dev -backeend, 
 - 🌱 I’m currently learning NodeJs with Express framework
 - 📫 How to reach me? 
 - 📱  Instagram: @tarik_besic
