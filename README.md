@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming, web dev -backeend, 
 - 🌱 I’m currently learning NodeJs with Express framework
 - 📫 How to reach me? 
-- 📱  Instagram: @tarik_besic
 - 📧 email: tarikbesic@protonmail.com
+- 📱  Instagram: @tarik_besic
 - 💻 Technologies: c++,Node/Express, SQLite, MongoDB, HTML, Css, JavaScript, NodeJS
 
 
