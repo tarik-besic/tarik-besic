@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NodeJs with Express framework
 - 📫 How to reach me? 
 - 📱  Instagram: @tarik_besic
+- 📧 email: tarikbesic@protonmail.com
 - 💻 Technologies: c++,Node/Express, SQLite, MongoDB, HTML, Css, JavaScript, NodeJS
 
 
