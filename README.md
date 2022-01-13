@@ -4,7 +4,7 @@
 - 📫 How to reach me? 
 - 📧 email: tarikbesic@protonmail.com
 - 📱  Instagram: @tarik_besic
-- 💻 Technologies: c++,Node/Express, SQLite, MongoDB, HTML, Css, JavaScript
+- 💻 Technologies: C++,Node/Express, HTML, CSS, JavaScript, React
 
 
 <!---
