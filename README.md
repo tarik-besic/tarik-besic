@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarik-besic
-- 👀 I’m interested in programming, web dev -backeend, 
+- 👀 I’m interested in web dev- frontend, backend 
 - 🌱 I’m currently learning NodeJs with Express framework
 - 📫 How to reach me? 
 - 📧 email: tarikbesic@protonmail.com
