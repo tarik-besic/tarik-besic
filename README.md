@@ -4,7 +4,7 @@
 - 📫 How to reach me? 
 - 📧 email: tarikbesic@protonmail.com
 - 📱  Instagram: @tarik_besic
-- 💻 Technologies: React Node/Express, SCSS, MySql and MongoDB
+- 💻 Technologies: React, Node/Express, SCSS, MySql and MongoDB
 
 
 <!---
