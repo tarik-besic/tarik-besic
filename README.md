@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @tarik-besic
 - 👀 I’m interested in web dev- frontend, backend 
-- 🌱 I’m currently learning NodeJs with Express framework
+- 🌱 I’m currently learning React
 - 📫 How to reach me? 
 - 📧 email: tarikbesic@protonmail.com
 - 📱  Instagram: @tarik_besic
-- 💻 Technologies: C++,Node/Express, HTML, CSS, JavaScript, React
+- 💻 Technologies: React Node/Express, SCSS, MySql and MongoDB
 
 
 <!---
