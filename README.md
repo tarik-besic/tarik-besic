@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @tarik-besic
-- 👀 I’m interested in web dev- frontend, backend 
-- 🌱 I’m currently learning React
+- 👀 I’m a Software Developer
 - 📫 How to reach me? 
 - 📧 email: tarikbesic@protonmail.com
-- 📱  Instagram: @tarik_besic
-- 💻 Technologies: React, Node/Express, SCSS, MySql and MongoDB
+- 💻 Technologies I use are: React, Node/Express, MySql, MongoDB and Typescript :)
 
 
 <!---
