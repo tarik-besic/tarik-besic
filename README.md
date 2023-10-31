@@ -2,7 +2,7 @@
 - 👀 I’m a Software Developer
 - 📫 How to reach me? 
 - 📧 email: tarikbesic@protonmail.com
-- 💻 Technologies I use are: React, Node/Express, MySql, MongoDB and Typescript :)
+- 💻 Technologies I work with are: Next.js, React, Node/Express, MySql, MongoDB :)
 
 
 <!---
